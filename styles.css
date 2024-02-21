@@ -6,5 +6,5 @@ body{
 }
 
 .bigStartlogo{
-     background-image: images/apinoitalogo.png
+     background-image: url("images/apinoitalogo.png");
 }
