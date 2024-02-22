@@ -1,9 +1,14 @@
 body{
-     background-color: #11222a;
+     background-color: #0b111b;
      color: white;
      font-family: "Arial", "Serif";
      text-align: center;
 }
+
 h2{
      font-size: 5rem;
+}
+
+.startlogodiv{
+     background-color: #b3dd00
 }
