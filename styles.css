@@ -1,8 +1,3 @@
-@font-face{
-     font-family:BowlbyOne;
-     src:url(fonts/BowlbyOne-Regular.ttf);
-}
-
 header{
      font-size: 2rem;
      font-family: Copperplate, Papyrus, fantasy;
@@ -40,3 +35,9 @@ a{
 a:hover{
      text-decoration: underlined;
 }
+
+@font-face{
+     font-family:BowlbyOne;
+     src:url(fonts/BowlbyOne-Regular.ttf);
+}
+
