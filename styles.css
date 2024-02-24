@@ -1,3 +1,8 @@
+@font-face{
+     font-family:Bowlby One;
+     src:url(https://fonts.googleapis.com/css2?family=Bowlby+One&display=swap)
+}
+
 header{
      font-size: 2rem;
      font-family: Copperplate, Papyrus, fantasy;
@@ -14,7 +19,7 @@ body{
 body.varoleipaa{
      background-color: #0b111b;
      color: #7d8c74;
-     font-family: Bowlby One SC, sans-serif;
+     font-family: Bowlby One, sans-serif;
      text-align: center;
      margin: 0px
 }
