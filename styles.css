@@ -1,3 +1,8 @@
+header{
+     color: #8e0015;
+     font-size: 2rem;
+}
+
 body{
      background-color: #0b111b;
      color: #7d8c74;
@@ -6,6 +11,10 @@ body{
      margin: 0px
 }
 
-h2{
+h1{
      font-size: 5rem;
+}
+
+h2{
+     font-size: 4rem;
 }
