@@ -36,8 +36,7 @@ a:hover{
      text-decoration: underlined;
 }
 
-@font-face{
-     font-family:BowlbyOne;
-     src:url(fonts/BowlbyOne-Regular.ttf);
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts/BowlbyOne-Regular.ttf);
 }
-
