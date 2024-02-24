@@ -1,5 +1,4 @@
 header{
-     color: #8e0015;
      font-size: 2rem;
 }
 
@@ -17,4 +16,13 @@ h1{
 
 h2{
      font-size: 4rem;
+}
+
+a{
+     color: #8e0015;
+     text-decoration: none;
+}
+
+a:hover{
+     text-decoration: underlined;
 }
