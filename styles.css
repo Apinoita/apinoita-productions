@@ -1,5 +1,5 @@
 header{
-     font-size: 2rem;
+     font-size: 10vh
      font-family: Copperplate, Papyrus, fantasy;
 }
 
@@ -34,9 +34,4 @@ a{
 
 a:hover{
      text-decoration: underlined;
-}
-
-@font-face {
-    font-family: myFirstFont;
-    src: url(fonts/BowlbyOne-Regular.ttf);
 }
