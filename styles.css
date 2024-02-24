@@ -1,5 +1,5 @@
 @font-face{
-     font-family:Bowlby One;
+     font-family:BowlbyOne;
      src:url(fonts/BowlbyOne-Regular.ttf);
 }
 
@@ -19,7 +19,7 @@ body{
 body.varoleipaa{
      background-color: #0b111b;
      color: #7d8c74;
-     font-family: Bowlby One, sans-serif;
+     font-family: BowlbyOne, sans-serif;
      text-align: center;
      margin: 0px
 }
