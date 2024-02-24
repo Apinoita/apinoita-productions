@@ -1,5 +1,6 @@
 header{
      font-size: 2rem;
+     font-family: Copperplate, Papyrus, fantasy;
 }
 
 body{
@@ -13,7 +14,7 @@ body{
 body.varoleipaa{
      background-color: #0b111b;
      color: #7d8c74;
-     font-family: "Bowlby One", sans-serif;
+     font-family: Bowlby One, sans-serif;
      text-align: center;
      margin: 0px
 }
