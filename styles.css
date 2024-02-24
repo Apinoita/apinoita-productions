@@ -20,11 +20,13 @@ body.varoleipaa{
 }
 
 h1{
-     font-size: 5rem;
+     font-size: 5rem
+     color: #ee9500;
 }
 
 h2{
      font-size: 4rem;
+     color: #ee9500;
 }
 
 a{
